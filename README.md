@@ -24,7 +24,8 @@ The PLPR system leverages state-of-the-art machine learning techniques for accur
 | Overall Accuracy                  | 98.8%   |
 | Plate Detection Inference Speed | 20 ms  |
 | Character Recognition Inference Speed Per Character| 44 ms  |
-| FPS Speed         | 17 FPS|
+| FPS Speed with CPU         | 17 FPS|
+| FPS Speed with GPU         | TBT|
 ## Showcasing Videos
 
 Below are two videos demonstrating the PLPR system in action:
@@ -48,8 +49,8 @@ The PLPR system's architecture includes the following modules:
 
 For further inquiries about the PLPR system, please contact:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [LinkedIn Profile Link]
+- **Email**: [hosein.nasiri@outlook.com]
+- **LinkedIn**: [[LinkedIn Profile Link](https://www.linkedin.com/in/hosein-nasiri-shahraki)]
 
 ---
 
